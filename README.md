@@ -1,5 +1,5 @@
 # webp-converter
-App to convert webp files to png or jpg files.
+PC Application to convert webp files to png or jpg files.
 Has the following functionalities -
 1. Single file conversion
 2. Entire directory conversion 
