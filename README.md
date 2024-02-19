@@ -5,3 +5,4 @@ Has the following functionalities -
 2. Entire directory conversion 
 3. Nested directory conversion
 4. Option to delete the original webp files after conversion.
+Built and tested on Linux. Currently untested on Windows.
