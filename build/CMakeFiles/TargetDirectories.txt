@@ -1,0 +1,3 @@
+/home/suraj/[Coding]/Apps/Webp converter/build/CMakeFiles/webp_converter.dir
+/home/suraj/[Coding]/Apps/Webp converter/build/CMakeFiles/edit_cache.dir
+/home/suraj/[Coding]/Apps/Webp converter/build/CMakeFiles/rebuild_cache.dir

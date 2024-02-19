@@ -1,0 +1,13 @@
+# ninja log v5
+12277	12370	1701790159484025696	/home/suraj/[Coding]/Apps/Webp converter/webp_converter	97733739153702d2
+3	12277	1701790159390687116	CMakeFiles/webp_converter.dir/home/suraj/[Coding]/imGUI/imgui.cpp.o	c6d288c3a9c2f393
+2	528	1701790147643360010	CMakeFiles/webp_converter.dir/home/suraj/[Coding]/imGUI/backends/imgui_impl_glfw.cpp.o	f57fc69f87538bcc
+1	66	1703952336837468005	build.ninja	d7f85ac5e54da8aa
+3	2006	1701790149120109717	CMakeFiles/webp_converter.dir/tinyfiledialogs.cpp.o	e89d85a2d6067dd1
+4	605	1701790147720030989	CMakeFiles/webp_converter.dir/webp_converter.cpp.o	da613e1bd3d6819f
+3	5253	1701790152366958942	CMakeFiles/webp_converter.dir/home/suraj/[Coding]/imGUI/imgui_draw.cpp.o	a4033c6126131d79
+4	460	1701790147573356074	CMakeFiles/webp_converter.dir/main.cpp.o	1e6024a249e1171b
+2	854	1701790147970045047	CMakeFiles/webp_converter.dir/home/suraj/[Coding]/imGUI/backends/imgui_impl_vulkan.cpp.o	67b723763936f204
+3	3153	1701790150266840862	CMakeFiles/webp_converter.dir/home/suraj/[Coding]/imGUI/imgui_tables.cpp.o	5b82030cf5434faf
+3	4078	1701790151193559636	CMakeFiles/webp_converter.dir/home/suraj/[Coding]/imGUI/imgui_demo.cpp.o	c9830291d84c34b1
+3	6505	1701790153620362744	CMakeFiles/webp_converter.dir/home/suraj/[Coding]/imGUI/imgui_widgets.cpp.o	608fd556c9791c85
